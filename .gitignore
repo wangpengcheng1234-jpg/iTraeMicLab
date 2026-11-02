@@ -1,0 +1,20 @@
+# 构建产物
+.build/
+*.app/
+
+# 旧版命令行工具（二进制）
+MicMonitor
+
+# 系统与编辑器
+.DS_Store
+*.swiftpm/
+xcuserdata/
+.vscode/
+.idea/
+
+# 调试截图（需要展示时单独放 docs/）
+.screenshots/
+
+# 本机调试记录与上传说明（含个人设备/环境信息，不随仓库发布）
+麦克风检测及优化、耳机返听建议-本次项目产生文件说明.md
+iTraeMicLab-GitHub上传说明.md
